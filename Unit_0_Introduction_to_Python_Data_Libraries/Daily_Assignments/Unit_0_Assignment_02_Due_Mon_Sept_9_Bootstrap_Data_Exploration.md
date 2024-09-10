@@ -27,4 +27,4 @@ Due: Monday, September 9th 2024
 ## Rubric
 |Outcome|Mastery+|Proficient|Developing|Limited|Incomplete|
 |---|---|---|---|---|---|
-|**Employability Skills**|I have I have provided a complete and thorough response to all three prompts.|I have provided a complete response to all three prompts.|I have provided a partial response to all three prompts.|I have provided a limited response to all three prompts.|I have not yet provided a response to all three prompts.|
+|**Employability Skills**|I have provided a complete and thorough response to all three prompts.|I have provided a complete response to all three prompts.|I have provided a partial response to all three prompts.|I have provided a limited response to all three prompts.|I have not yet provided a response to all three prompts.|
