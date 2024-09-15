@@ -1,6 +1,13 @@
 # Unit 0, Assignment 07: <br> Lab 3 - Basic Statistics
 Due: Tuesday, September 17th 2024
 
+## Part 1 - Datacamp
+
+**Complete the following on Datacamp:**<br>
+Course 2 (Intermediate Python) > Chapter 1 (Matplotlib) > Basic plots with Matplotlib + Exercises
+
+## Part 2 - Lab
+
 In this lab, you will explore how to leverage the features of NumPy to generate some basic statistical measures using the dataset you selected from Bootstrap World.  As you work, be sure to include appropriate comments in your code.
 
 1.  Identify two columns to explore whether or not there is a statistical relationship.  For example, in the Global Waste dataset, one could ask, "Is there a relationship between column J (Municipal Solid Waste per Capita) and column L (Percent Urban)?"  
