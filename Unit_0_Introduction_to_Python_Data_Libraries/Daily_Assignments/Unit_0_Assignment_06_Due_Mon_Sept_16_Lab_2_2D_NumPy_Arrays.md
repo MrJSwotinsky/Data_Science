@@ -1,4 +1,4 @@
-# Unit 0, Assignment 05: <br> Lab 2 - 2D NumPy Arrays
+# Unit 0, Assignment 06: <br> Lab 2 - 2D NumPy Arrays
 Due: Monday, September 16th 2024
 
 In this lab, you will explore n-dimensional NumPy arrays using the dataset you selected from Bootstrap World.  NumPy arrays can have any number of dimensions.  However, for this lab, you will focus on two-dimensional NumPy arrays.  As you work, be sure to include appropriate comments in your code.
