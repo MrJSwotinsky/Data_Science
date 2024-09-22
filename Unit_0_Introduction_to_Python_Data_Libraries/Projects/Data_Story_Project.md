@@ -1,5 +1,6 @@
 # Data Science 1
 ## Data Story Project
+Due: Monday, September 30th 2024
 
 **TASK:** Select a dataset and leverage what you have learned about the numpy, matplotlib, and pandas packages to tell its story through a set of data visualizations and verbal descriptions.
 
