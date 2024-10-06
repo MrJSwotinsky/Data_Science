@@ -26,11 +26,12 @@ example_dictionary = {
   'key_2' : ['value_1', 'value_2', 'value_3'],
 }
 ```
+You will use this dictionary to generate a DataFrame.
 
-*  In general, what do each of the keys represent?
-*  In relation to your specific data, what do each of the keys represent?
-*  In general what do each of the values represent?<br>**Hint:** `'value_1'`, `'value_2'`, and `'value_3'` are not the values.  The lists containing `'value_1'`,`'value_2'`, and `'value_3'` are the values.
-*  In relation to your specific data, what do each of the values represent?<br>**Remember:** `'value_1'`, `'value_2'`, and `'value_3'` are not the values.  The lists containing `'value_1'`,`'value_2'`, and `'value_3'` are the values.
+*  In general, what will each of the keys represent?
+*  In relation to your specific data, what will each of the keys represent?
+*  In general what will each of the values represent?<br>**Hint:** `'value_1'`, `'value_2'`, and `'value_3'` are not the values.  The lists containing `'value_1'`,`'value_2'`, and `'value_3'` are the values.
+*  In relation to your specific data, what will  each of the values represent?<br>**Remember:** `'value_1'`, `'value_2'`, and `'value_3'` are not the values.  The lists containing `'value_1'`,`'value_2'`, and `'value_3'` are the values.
    
 4.  Import the numpy and pandas packages.
 5.  Create a dictionary to represent the 4 rows and 4 columns you selected and assign it to an appropriately named variable.
