@@ -36,7 +36,7 @@ In the example above, `bar1_values` = `[25000, 28000, 19000, 29000]`
 `bar1_label` is accepted as a string and represents the label that applies to the second set of bars.<br>
 In the example above, `bar2_label` = `'Company B'`<br><br>
 
-`bar2_values` is accepted as a list and represents the list of values that correspond to the seco9nd set of bars.<br> 
+`bar2_values` is accepted as a list and represents the list of values that correspond to the second set of bars.<br> 
 In the example above, `bar2_values` = `[7000, 12000, 18000, 32000]`<br><br>
 
 `categories` is accepted as a list of strings and represents the category labels for the double bar graph.<br>
@@ -64,6 +64,6 @@ The first bar graph highlights Canada's Municipal Solid Waste per Capita, Hazard
 The second bar graph highlights the United State's Municipal Solid Waste per Capita, Hazardous Waste per Capita, and Human Development Index compared to the mean values for Municipal Solid Waste per Capita, Hazardous Waste per Capita, and Human Development Index across all countries.
 
 
-
+[Sample Code In Action](https://github.com/MrJSwotinsky/Data_Science/blob/main/Unit_1_Data_Manipulation/Projects/Data_Module_Design_Project/Sample/Sample_Module_Design_Project_Functions_In_Action.ipynb)
 
 
